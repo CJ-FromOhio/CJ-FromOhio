@@ -3,12 +3,19 @@
 <br>
 name: **Hezix**
 <br>
-### tg dm
-<img src="image.png" height="150"></img>
+## [tg dm](https://t.me/LastPersonFromOhio)
 <br>
 <br>
 development stack:
-| language | framework | other |
-|:-:|:-:|:-:|
-|<img src="java.png" height="100">|<img src="spring.png" height="100">|<img src="postgresql.png" height="100">|
-|<img src="C.png" height="100" >|<img src="hibernate.png" height="100" >|<img src="redis.png" height="100" >|
+<ul>
+  <li>Java 17</li>
+  <li>PostgreSQL</li>
+  <li>Spring Boot/Data/Security/Web</li>
+  <li>Liquibase</li>
+  <li>Redis</li>
+  <li>Grafana</li>
+  <li>Prometheus</li>
+  <li>Docker</li>
+  <li>Minio</li>
+</ul>
+
